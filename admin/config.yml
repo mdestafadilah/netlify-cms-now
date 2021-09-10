@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: robinpokorny/netlify-cms-now # CHANGE ME
+  repo: mdestafadilah/netlify-cms-now # CHANGE ME
   branch: master
-  base_url: https://netlify-cms-now.now.sh # CHANGE ME
+  base_url: https://netlify-cms-now-desta.vercel.app/ # CHANGE ME
   auth_endpoint: api/auth
 
 media_folder: /img
